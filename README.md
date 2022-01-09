@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Delbert Giovanni Lie, sometimes i go by the name maskirovka or icarrus. I'm a cyber security enthusiast who has a high curiosity with everything related into Web Exploitation and OSINT. In addition, i'm also a HTB and THM player. I oftenly doing challenges on both platform when I have some free time.
 
+### Feel free to contact me!!  🤙
+<a href="https://www.linkedin.com/in/maskirovka/"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--chf73s-H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Linked_In-0077B5%3Fstyle%3Dfor-the-badge%26logo%3DLinkedIn%26logoColor%3Dwhite" alt="linked-in" loading="lazy" width="115" height="28"></a>
+<a href="https://www.instagram.com/delbert_giovanni/"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Sg7TEMKA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" alt="instagram" loading="lazy" width="121" height="28"></a>
+
+### Check out my other profile!! 🕹
+<a href="https://www.hackthebox.com/home/users/profile/405985"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-300x300.png" alt="hackthebox" loading="lazy" width="50" height="50"></a>
+<a href="https://tryhackme.com/p/maskirovka"><img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/af7feb2c43a2c7d5f111b98ccbd15048.png" alt="tryhackme" loading="lazy" width="50" height="50"></a>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=delbertgiovanni&theme=ocean_dark" />
 <!--
 **delbertgiovanni/delbertgiovanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
